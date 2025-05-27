@@ -23,8 +23,8 @@ To Create a java program use replace() method replaces the given String from the
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: Vikram K
-RegisterNumber: 212222040180
+Developed by: Dhanush P
+RegisterNumber: 212222040034
 ```
 
 ## Sourcecode.java:
