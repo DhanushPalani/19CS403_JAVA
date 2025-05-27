@@ -20,8 +20,8 @@ To create a java program for calculate cube of a number using static method.
 ## PROGRAM:
  ```
 Program to implement a Static method using Java
-Developed by: Vikram K
-RegisterNumber:  212222040180
+Developed by: Dhanush P
+RegisterNumber:  212222040034
 ```
 
 ## Sourcecode.java:
