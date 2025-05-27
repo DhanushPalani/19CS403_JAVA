@@ -39,8 +39,8 @@ To Define a program to find out if he/she is eligible to retire. A person is eli
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: VIKRAM K
-RegisterNumber:  212222040180
+Developed by: Dhanush P
+RegisterNumber:  212222040034
 */
 ```
 
