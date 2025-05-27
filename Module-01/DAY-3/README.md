@@ -38,8 +38,8 @@ To write a Java program that takes a number between 1 and 5 from the user and di
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: VIKRAM K
-RegisterNumber:  212222040180
+Developed by: Dhanush P
+RegisterNumber:  212222040034
 */
 ```
 
