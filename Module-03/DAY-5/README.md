@@ -24,8 +24,8 @@ Step 5: End
 ## PROGRAM:
  ```
 Program to implement a StringBuilder Object Reference in Java
-Developed by: Vikram K
-RegisterNumber: 212222040180
+Developed by: Dhanush P
+RegisterNumber: 212222040034
 ```
 
 ## Sourcecode.java:
