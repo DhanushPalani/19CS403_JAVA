@@ -21,8 +21,8 @@ To create a java program that returns the sum of all the values in a 2D array.
 ## PROGRAM:
  ```
 Program to implement a Multi Dimensional Array using Java
-Developed by: Vikram K
-RegisterNumber:  212222040180
+Developed by: Dhanush P
+RegisterNumber:  212222040034
 ```
 
 ## Sourcecode.java:
