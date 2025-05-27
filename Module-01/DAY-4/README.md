@@ -40,8 +40,8 @@ To write a Java program to calculate and print the area of a circle by defining 
  ```
 /*
 Program to implement a User Defined Method using Java
-Developed by: VIKRAM K
-RegisterNumber:  212222040180
+Developed by: Dhanush  P
+RegisterNumber:  212222040034
 */
 ```
 
