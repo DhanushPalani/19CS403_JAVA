@@ -20,8 +20,8 @@ To create a java program using StringTokenizer class that tokenizes a string "My
 ## PROGRAM:
  ```
 Program to implement a String Tokenizer using Java
-Developed by: Vikram K
-RegisterNumber: 212222040180
+Developed by: Dhanush P
+RegisterNumber: 212222040034
 ```
 
 ## Sourcecode.java:
